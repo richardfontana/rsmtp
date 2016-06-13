@@ -1,0 +1,6 @@
+[package]
+name = "rsmtp"
+version = "0.1.0"
+authors = ["Richard Fontana <fontana@sharpeleven.org>"]
+
+[dependencies]
